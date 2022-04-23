@@ -5,7 +5,11 @@ Repository to compile all the projects that have been developed in the Advanced 
 
 <br>
 
+Team:
   * João Raimundo
   * Rui Roque
-
+  
+Oriented by:
+ * Professor Luís Correia
+ * Professor Helena Tomás
 
